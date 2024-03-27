@@ -1,15 +1,16 @@
 # test
 
 
-<img src="https://img.shields.io/badge/RASPBERRY PI-#A22846?style=flat&logo=Raspberry Pi&logoColor=white"/>
-<img src="https://img.shields.io/badge/AMAZON IoT-#FF9900 IoT?style=flat&logo=AMAZON IoT&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUNIT5-#25A162?style=flat&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTHON OBD-#3776AB?style=flat&logo=PYTHON OBD&logoColor=white"/>
-<img src="https://img.shields.io/badge/MUI-#007FFF?style=flat&logo=MUI&logoColor=white"/>
-<img src="https://img.shields.io/badge/NAVER MAP API-#03C75A?style=flat&logo=NAVER MAP API&logoColor=white"/>
-<img src="https://img.shields.io/badge/NOTION-#000000?style=flat&logo=NOTION&logoColor=white"/>
-<img src="https://img.shields.io/badge/discord-#5865F2?style=flat&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 
+![Rasp](https://img.shields.io/badge/raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Rasp](https://img.shields.io/badge/amzon%20IoT-FF9900?style=for-the-badge&logo=amazonluna&logoColor=white)
+![Rasp](https://img.shields.io/badge/junit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Rasp](https://img.shields.io/badge/python%20obd-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rasp](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Rasp](https://img.shields.io/badge/naver%20map%20api-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+![Rasp](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Rasp](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Rasp](https://img.shields.io/badge/google%20docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+![Rasp](https://img.shields.io/badge/junit-?style=for-the-badge&logo=junit5&logoColor=white)
+![Rasp](https://img.shields.io/badge/junit-?style=for-the-badge&logo=junit5&logoColor=white)
 
-![Rasp](https://img.shields.io/badge/raspbasdfsdferrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
