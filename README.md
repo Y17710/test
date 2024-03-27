@@ -11,10 +11,4 @@
 <img src="https://img.shields.io/badge/discord-#5865F2?style=flat&logo=discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 
-
-![img](https://img.shields.io/badge/{NOTION}-{#000000}?style=for-the-badge&logo={Notion}&logoColor={white})
-
 ![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react&logoColor=green)
-![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react)
-![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
-![React](https://img.shields.io/badge/react?style=for-the-badge&logo=react)
