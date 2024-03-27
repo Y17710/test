@@ -12,4 +12,4 @@
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 
 
-![Rasp](https://img.shields.io/badge/raspberrypi-#A22846?style=for-the-badge&logo=raspberry22pi&logoColor=white)
+![Rasp](https://img.shields.io/badge/raspberry22pi-#A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
